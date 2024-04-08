@@ -1,29 +1,20 @@
 {
-  "user": {
-    "name": "Alice",
-    "age": 28,
-    "email": "alice@example.com"
-  },
-  "preferences": {
-    "theme": "dark",
-    "language": "en",
-    "notifications": true
-  },
-  "shopping_cart": {
-    "items": [
-      {
-        "id": "1234",
-        "name": "Widget",
-        "price": 10.99,
-        "quantity": 2
-      },
-      {
-        "id": "5678",
-        "name": "Gadget",
-        "price": 24.99,
-        "quantity": 1
-      }
-    ],
-    "total": 46.97
-  }
+  "accounts": [
+    {
+      "username": "user123",
+      "password": "P@ssw0rd1"
+    },
+    {
+      "username": "john_doe",
+      "password": "Doe1234!"
+    },
+    {
+      "username": "example_user",
+      "password": "Ex@mpleP@ss"
+    },
+    {
+      "username": "test_account",
+      "password": "Test123!"
+    }
+  ]
 }
