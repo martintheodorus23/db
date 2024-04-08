@@ -1,92 +1,29 @@
 {
-  "projects": [
-    {
-      "name": "A city management system",
-      "started on": "Sun Mar 24 22:54:24 2024",
-      "tasks": {}
-    },
-    {
-      "name": "Mac: daily verse generator",
-      "started on": "Sun Mar 24 22:54:24 2024",
-      "tasks": {}
-    },
-    {
-      "name": "Rando: Random based company",
-      "started on": "Sun Mar 24 22:54:24 2024",
-      "tasks": {}
-    },
-    {
-      "name": "bible database",
-      "started on": "Sun Mar 24 22:54:24 2024",
-      "tasks": {}
-    },
-    {
-      "name": "RAID Attendance System",
-      "started on": "Sun Mar 24 22:54:24 2024",
-      "tasks": {}
-    },
-    {
-      "name": "Project Management System",
-      "started on": "Sun Mar 24 22:54:24 2024",
-      "tasks": {}
-    },
-    {
-      "name": "A Store  Management System",
-      "started on": "Sun Mar 24 22:54:24 2024",
-      "tasks": {}
-    },
-    {
-      "name": "Reinforced Agents",
-      "started on": "Sun Mar 24 22:54:24 2024",
-      "tasks": {}
-    },
-    {
-      "name": "SSD for Workspace",
-      "started on": "Sun Mar 24 21:21:40 2024",
-      "tasks": {}
-    },
-    {
-      "name": "Mac_bot",
-      "started on": "Sun Mar 24 21:50:06 2024",
-      "folder": "",
-      "tasks": []
-    },
-    {
-      "name": "Third arm",
-      "started on": "Sun Mar 24 22:00:52 2024",
-      "folder": "",
-      "tasks": [
-        {
-          "name": "Crea\te a Rando class with defs that it can make disions",
-          "due date": ""
-        }
-      ]
-    },
-    {
-      "name": "Mac management system",
-      "started on": "Mon Mar 25 00:19:57 2024",
-      "tasks": []
-    },
-    {
-      "id": 12,
-      "name": "Swapnil Grey",
-      "dis": "uj98hnn8hhhhhhhhhhhhh  g8gyh8h oihuo ",
-      "started on": "Tue Mar 26 15:39:55 2024",
-      "tasks": []
-    },
-    {
-      "id": 13,
-      "name": "coda ",
-      "dis": "ewwerew",
-      "started on": "Tue Mar 26 16:05:12 2024",
-      "tasks": []
-    },
-    {
-      "id": 14,
-      "name": "cup",
-      "dis": "trying to make a cup",
-      "started on": "Tue Mar 26 16:35:42 2024",
-      "tasks": []
-    }
-  ]
+  "user": {
+    "name": "Alice",
+    "age": 28,
+    "email": "alice@example.com"
+  },
+  "preferences": {
+    "theme": "dark",
+    "language": "en",
+    "notifications": true
+  },
+  "shopping_cart": {
+    "items": [
+      {
+        "id": "1234",
+        "name": "Widget",
+        "price": 10.99,
+        "quantity": 2
+      },
+      {
+        "id": "5678",
+        "name": "Gadget",
+        "price": 24.99,
+        "quantity": 1
+      }
+    ],
+    "total": 46.97
+  }
 }
